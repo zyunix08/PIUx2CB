@@ -1,6 +1,6 @@
-# PIUx2C
+# PIUx2CB
 
-*insert 3D model here when done*
+<img src="https://cdn.discordapp.com/attachments/897652415527010364/1272948869356851301/image.png?ex=66bcd584&is=66bb8404&hm=3d768a436627e1d597b381f87a044baa1b7fdb27aafbbe8c5a2d3b020e9be449&" alt="PIUx2CB 3D Model (UNFINISHED)">
 
 <h2>Description</h2>
 A 10-step dance pad made for Andamiro's Pump It Up dance simulator (slightly sized-down).
