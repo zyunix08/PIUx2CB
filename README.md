@@ -22,7 +22,7 @@ A 10-step dance pad made for Andamiro's Pump It Up dance simulator (slightly siz
     <ul>
       <li>72" x 49" (1x)</li>
       <li>24.5" x 10" (4x)</li>
-      <li>2" x 2.5" (40x)</li>
+      <li>2" x 2" (40x)</li>
     </ul>
   </li>
   <li>
